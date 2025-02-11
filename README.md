@@ -1,4 +1,16 @@
-# 增强的员工：Augmented Workforce
+
+## Magic Power of AI
+
+* magic.ai 人机互动
+
+* assembly.ai 人机协作
+
+**Human-Machine Collaboration**
+
+AI 智能助手 --> AR 可视化、具象化
+
+
+### 增强的员工：Augmented Workforce
 
 > 要让每个员工都有一个“懂我”的智能助手，高效，高质量完成每一件工作。
 
