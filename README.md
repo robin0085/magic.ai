@@ -1,13 +1,13 @@
 
 ## Magic Power of AI
 
-* _magic.ai 微雕作品.App_
+✅ _magic.ai 微雕作品.App_
 
-* _assembly.ai 理疗教程.App_
+✅ _assembly.ai 理疗教程.App_
 
 **Human-Machine Collaboration**
 
-> AI 智能助手 --> AR 可视化、具象化
+> 💡AI 智能助手 --> AR 可视化、具象化
 
 _**MarsCode** 人机协作 人机互动_
 
