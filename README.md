@@ -18,15 +18,15 @@ _**MarsCode** 人机协作 人机互动_
 
 > 华为：全联接大会
 
-> 1. 自适应体验：Adaptive User Experience
+  🔹1. 自适应体验：Adaptive User Experience
 
-> 2. 自演进产品：Auto-Evolving Products
+  🔹2. 自演进产品：Auto-Evolving Products
 
-> 3. 自治的运营：Autonomous Operation
+  🔹3. 自治的运营：Autonomous Operation
 
-> 4. 增强的员工：Augmented Workforce
+  🔹4. 增强的员工：Augmented Workforce
 
-> 5. 全量全要素全联接：All-Connected Resources
+  🔹5. 全量全要素全联接：All-Connected Resources
 
-> 6. 智能原生基础设施：AI-Native Infrastructure
+  🔹6. 智能原生基础设施：AI-Native Infrastructure
 
