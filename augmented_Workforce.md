@@ -17,3 +17,8 @@
 
 6. 智能原生基础设施：AI-Native Infrastructure
 	一方面，ICT基础设施要系统化构建，要能适应智能化应用的需要，即ICT for Intelligence。另一方面，基础设施本身的运维管理和体验保障要充分智能化，即Intelligence for ICT。
+
+when $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+
+$$x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}$$
+
