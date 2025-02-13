@@ -1,7 +1,7 @@
 
 ## Magic Power of AI
 
-✅ _magic.ai 微雕作品.App_
+✅ _magic.ai 营销手册.App_
 
 ✅ _assembly.ai 理疗教程.App_
 
