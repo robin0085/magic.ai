@@ -3,7 +3,7 @@
 
 ✅ _magic.ai 营销手册.App_
 
-✅ _assembly.ai 理疗教程.App_
+✅ _assembly.ai 绿色概念.App_
 
 **Human-Machine Collaboration**
 
