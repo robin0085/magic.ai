@@ -5,9 +5,15 @@
 
 ✅ _assembly.ai 营养服务.App_
 
-**Human-Machine Collaboration**
+- Compound Knowledge
+  
+  * Biology
+  * Business
+  * Computer
+  * Pychology
+  * Communication
+  * Management
 
-> 💡AI 智能助手 --> AR 可视化、具象化
 
 _**MarsCode** 人机协作 人机互动_
 
@@ -30,7 +36,7 @@ _**MarsCode** 人机协作 人机互动_
 
   🔹6. 智能原生基础设施：AI-Native Infrastructure
 
-### 雪球：pin-投资逻辑
+### 雪球
 
 通胀率其实不是机会成本而应该是“基本回报率”，在投资时其实无法考虑通胀率，但可以比较利率。也就是说，最小机会成本还是无风险国债回报。
 
