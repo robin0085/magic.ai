@@ -3,7 +3,7 @@
 
 ✅ _magic.ai 自我和解之道.App_
 
-✅ _assembly.ai 自演进.App_
+✅ _assembly.ai 数字生存指南.App_
 
 - Compound Knowledge
   
