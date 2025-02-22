@@ -1,9 +1,9 @@
 
 ## Magic Power of AI
 
-✅ _magic.ai 营销手册.App_
+✅ _magic.ai 自我和解之道.App_
 
-✅ _assembly.ai 营养服务.App_
+✅ _assembly.ai 自演进.App_
 
 - Compound Knowledge
   
