@@ -1,5 +1,5 @@
 
-## Magic Power of AI
+## Guiding to Life in the Digital Dimension
 
 ✅ _magic.ai 自我和解之道.App_
 
