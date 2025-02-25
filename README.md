@@ -1,9 +1,9 @@
 
 ## Guiding to Life in the Digital Dimension
 
-✅ _magic.ai 自我和解之道.App_
+✅ _magic.ai 漫不经心的时光穿梭.App_
 
-✅ _assembly.ai 数字生存指南.App_
+✅ _assembly.ai 数字生活指南.App_
 
 - Compound Knowledge
   
