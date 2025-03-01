@@ -1,7 +1,7 @@
 
 ## Guiding to Life in the Digital Dimension
 
-✅ _magic.ai 漫不经心的时光穿梭.App_
+✅ _magic.ai 亚当斯的自白.App_
 
 ✅ _assembly.ai 数字生活指南.App_
 
