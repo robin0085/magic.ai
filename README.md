@@ -42,6 +42,10 @@ _**MarsCode** 人机协作 人机互动_
 
 有些公司拿着很多现金却无法有效利用的话，实际上这些现金是在贬值的。最好的状况是在不用分红的前提下可以维持资产回报率。
 
+### 亚当斯的自白
+
+🔹[好好说话](https://github.com/robin0085/magicai/blob/master/media_Arts.md)
+
 
 
 
