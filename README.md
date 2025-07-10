@@ -30,7 +30,7 @@
 
 ***Marketable***
 
-> Branding & Marketing
+> Marketing & Product Design
 >
 > 万物生长，想象力
 > 
