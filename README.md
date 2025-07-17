@@ -235,7 +235,7 @@ _**MarsCode** 人机协作 人机互动_
 
 🔹[好好说话](https://github.com/robin0085/magicai/blob/master/media_Arts.md)
 
-🔹[内容创作者时代]（https://github.com/robin0085/magic.ai/blob/master/content_Creator.md）
+🔹[内容创作者时代](https://github.com/robin0085/magic.ai/blob/master/content_Creator.md)
 
 
 
