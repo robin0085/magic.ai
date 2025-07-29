@@ -34,7 +34,6 @@
 >
 > 视觉体验 Architecture (Framework)
 > 
-> 透过大师的视角
 
 - 形象设计
 
