@@ -246,3 +246,7 @@ _**MarsCode** 人机协作 人机互动_
 
 🔹[宛如神明](https://github.com/robin0085/magic.ai/blob/master/greedisland.md)
 
+🔹[记忆拼图](https://github.com/robin0085/magic.ai/blob/master/memory_Puzzle.md)
+
+
+
