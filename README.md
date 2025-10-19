@@ -249,7 +249,7 @@ _**MarsCode** 人机协作 人机互动_
 
 🔹[可预见的未来](https://github.com/robin0085/magic.ai/blob/master/blueprint.md)
 
-
+🔹[创业基石理论](https://github.com/robin0085/magic.ai/blob/master/black_Stone.md)
 
 
 🔹[时间穿越](https://github.com/robin0085/magic.ai/blob/master/memory_Search.md)
